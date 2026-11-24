@@ -1,0 +1,1 @@
+{"description":"make.fun entry: The Production Database Apology","license":"MIT","main":"main.ts","name":"joke3-prod-db-apology-entry","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
